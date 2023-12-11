@@ -1,4 +1,4 @@
-# py-google-dino
+# google-dino
 
 
 ![demo ](images/demo.png)
