@@ -1,2 +1,0 @@
-# GoogleDino
-Google dino
