@@ -1,2 +1,4 @@
-# GoogleDino
-Google dino
+# py-google-dino
+
+
+![demo ](images/demo.png)
